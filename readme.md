@@ -1,4 +1,4 @@
-Empire - A sample Bootstrap landing page
+[Empire](http://jaime-lynn.github.io/bootstrap-clone) - A sample Bootstrap landing page
 ========================================
 
 Empire is a sample landing page made using Bootstrap and following standard design patterns.  Even the Galactic Empire needs to get with the modern age at some point and update their recruiting.  So far they have reported an increase in Stormtrooper sign ups!
